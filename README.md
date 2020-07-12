@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="php.png" alt="Logo PHP" width="200px" />
+<img src="nodejs.png" alt="Logo NodeJS" width="200px" />
 </h1>
 
 <h3 align="center">
